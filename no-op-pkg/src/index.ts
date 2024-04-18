@@ -1,3 +1,1 @@
-export const checkProject = () => {
-  return "no-op-pkg works";
-};
+export const NO_OP = <T = unknown>() => ({}) as T;
