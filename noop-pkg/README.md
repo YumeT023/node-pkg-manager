@@ -1,3 +1,3 @@
 # Noop Pkg
 
-A mock package whose purpose is to __intentionally__ cause conflicts with peer dependencies. (... to see uhm)
+A mock package whose purpose is to **intentionally** cause conflicts with peer dependencies. (... to see uhm)

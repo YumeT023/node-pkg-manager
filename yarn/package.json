@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.28"
+    "axios": "^0.28",
+    "noop-testing": "^0.1.0"
   }
 }
