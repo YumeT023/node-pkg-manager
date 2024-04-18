@@ -1,15 +1,5 @@
-# IDE
-.vscode
-.idea
-
-# packages
+pnpm-lock.yaml
+yarn.lock
+package-lock.json
 node_modules
-
-# env
-.env
-.env.local
-
-# build outputs
 dist
-*.d.ts
-src/*.js
